@@ -1,0 +1,19 @@
+internal/app/cf-terraforming/cmd/generate_test.go
+  s_419c9534b65117::t_c02f1999a25f71 138
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "72dddbe5933f953b7dc8eceaa88a0a1f8fb83305",
+  "prompts": {},
+  "sessions": {
+    "s_419c9534b65117": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fb6f9c182ffe7z6bAM1ruVoUGD",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "jake fowler <jfowler@cloudflare.com>"
+    }
+  }
+}
